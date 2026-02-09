@@ -44,25 +44,7 @@ I am an IT undergraduate passionate about building scalable, real-world applicat
 
 ---
 
-## 🚀 Featured Projects (Recruiters CLICK These First)
 
-### 🛒 LaSephora — Full Online Shopping System
-✔️ Architected using **Object-Oriented Programming**  
-✔️ Integrated database with optimized queries  
-✔️ Designed for usability and scalability  
-
-👉 **TIP:** Pin this repository immediately.
-
----
-
-### 🏟 Sports Complex Management Platform *(Ongoing)*
-✔️ Full MERN stack architecture  
-✔️ AI chatbot integration  
-✔️ Real-world booking workflow  
-
-🔥 This project alone can help you land internships.
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sujanlakdin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
