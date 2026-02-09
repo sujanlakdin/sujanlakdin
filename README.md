@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Sujan+Lakdin!;&font=Fira%20Code&center=true&width=500&height=55">
+
 # 💫 About Me:
 🔭 I’m currently working on:  <br>A sports complex website using the MERN stack and exploring AI chatbot integration.<br><br>👯 I’m looking to collaborate on:  <br>Web development projects and open-source contributions.<br><br>🤝 I’m looking for help with:  <br>Advanced full-stack development and scalable application design.<br><br>🌱 I’m currently learning:  <br>MERN stack, automated testing with Playwright, and modern software development practices.<br><br>💬 Ask me about:  <br>Java, JavaScript, database systems, test automation, and full-stack development.<br><br>⚡ Fun fact:  <br>I built a fully functional online shopping system called **LaSephora** for my OOP project.<br>
 
