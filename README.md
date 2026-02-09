@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;Full-Stack+Developer;MERN+Specialist;Java+Developer;AI+Explorer&font=Fira%20Code&center=true&width=540&height=55">
 
-# 👋 Hey, I'm Sujan Lakdin Dharmarathna
+#  Hey, I'm Sujan Lakdin Dharmarathna
 
 🚀 **Future Software Engineer | Full-Stack Developer**
 
@@ -64,17 +64,10 @@ I am an IT undergraduate passionate about building scalable, real-world applicat
 
 ---
 
-## 📈 GitHub Analytics
-
-![](https://github-profile-trophy.vercel.app/?username=sujanlakdin&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
-
-![](https://github-readme-stats.vercel.app/api?username=sujanlakdin&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sujanlakdin&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanlakdin&theme=transparent&hide_border=true&layout=compact)
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sujanlakdin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sujanlakdin&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanlakdin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🎯 2026 Goals
 
@@ -88,7 +81,9 @@ I am an IT undergraduate passionate about building scalable, real-world applicat
 
 ## 🌐 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://sujanlakdin.github.io/SLakdinportofolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan-lakdin-89bb2b344)
+
 
 📧 **Email:** sujanlakdin2004@gmail.com  
 
